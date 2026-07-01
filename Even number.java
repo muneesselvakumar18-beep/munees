@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class Even number{
-    
+public class Even       {
+    public static void main(string[] args);
+
 }
 
