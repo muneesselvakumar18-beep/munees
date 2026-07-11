@@ -1,19 +1,12 @@
+public class Array {
+   public Array() {
+   }
 
-    import java.util.scanner;
-    public class Array { 
-    public static void main(String[]args){
-        Scanner sc=new Scanner(System.in);
-        int [] arr=new int[5];
-        for(int i=0;i<arr.length;i++){
-            arr[i]=sc.nextInt();
-        }
-        for(int i=0;i<arr.length;i++){
-        System.out.print(arr[i]+"");
-            
-        }
-        
-    }
-
-    }    
+   public static void main(String[] var0) {
+      int[] var1 = new int[5];
+      int[] var10000 = new int[]{1, 2, 3, 4, 5};
+      System.out.println(var1[3]);
+   }
+}
     
 

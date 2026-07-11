@@ -1,4 +1,4 @@
-public class eletriccity {
+public class Eletriccity {
 public static void main(String[] args) {
     int units=100;
     double billAmount=0.0;
@@ -15,7 +15,5 @@ public static void main(String[] args) {
 
     System.out.println("Electricity Bill Amount: " + billAmount);
 
-
-    
-    
 }
+  } 
